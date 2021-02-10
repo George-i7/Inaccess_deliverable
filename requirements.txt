@@ -1,0 +1,7 @@
+Libraries used for this project:
+
+1. pandas
+2. numpy
+3. sklearn
+4. statsmodels
+5. seaborn
